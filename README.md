@@ -1,5 +1,5 @@
 # renanemanoel33-alt
-# Olá 👋 Eu sou o Renan
+# Olá eu sou o Renan
 
 💻 Programador apaixonado por tecnologia.
 
@@ -7,9 +7,9 @@ Atualmente estou focado em aprender desenvolvimento e criar alguns projetos em *
 
 ## 🚀 Sobre mim
 
-* 🐍 Faço alguns projetos em Python
-* 📚 Aprendendo MySQL
-* 💡 Gosto de criar projetos automatizados
+*  Faço alguns projetos em Python
+*  Aprendendo MySQL
+*  Gosto de criar projetos automatizados
 
 ## 🛠️ Tecnologias
 
