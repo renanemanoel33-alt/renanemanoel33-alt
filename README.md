@@ -1,7 +1,7 @@
 # renanemanoel33-alt
 # Olá eu sou o Renan
 
-💻 Programador apaixonado por tecnologia.
+Programador apaixonado por tecnologia.
 
 Atualmente estou focado em aprender desenvolvimento e criar alguns projetos em **Python**.
 
