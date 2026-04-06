@@ -8,7 +8,7 @@ Atualmente estou focado em aprender desenvolvimento e criar alguns projetos em *
 ## 🚀 Sobre mim
 
 *  Faço alguns projetos em Python
-*  Aprendendo MySQL
+*  Aprendendo Engenharia de Software
 *  Gosto de criar projetos automatizados
 
 ## 🛠️ Tecnologias
