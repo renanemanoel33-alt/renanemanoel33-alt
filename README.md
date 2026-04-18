@@ -5,7 +5,7 @@ Programador apaixonado por tecnologia.
 
 Atualmente estou focado em aprender desenvolvimento e criar alguns projetos em **Python**.
 
-## 🚀 Sobre mim
+## Sobre mim
 
 *  Faço alguns projetos em Python
 *  Aprendendo Engenharia de Software
