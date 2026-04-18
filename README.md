@@ -23,7 +23,7 @@ Atualmente estou focado em aprender desenvolvimento e criar alguns projetos em *
 
 📧 [renanemanoel33@gmail.com](mailto:renanemanoel33@gmail.com)
 
-* 📸 [Instagram](https://www.instagram.com/renanemanoel_alb/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/renanemanoel_alb/)
 
 
 
